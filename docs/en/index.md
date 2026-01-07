@@ -19,10 +19,12 @@ Because the world has become so complex that leaders can hide the truth. They ar
 The modern world is built on the Division of Labor. It made society efficient, but it fragmented reality. Today, systems are so complex that no single person—and certainly no busy citizen—sees how the whole machine works. We are left with Black Boxes: we see the inputs and outputs, but the mechanism that connects them is invisible.
 
 **2. Incentive: Leaders are optimized for survival, not yours.**
-**Securing power is the prerequisite to implementing ideals.** Before a leader can fix anything, they must first cement their position. **Natural selection prefers** those who prioritize survival over ideals.
+**Securing power is the prerequisite to implementing ideals.** Before a leader can fix anything, they must first cement their position. 
 
 -    **Rule #1:** Securing and maintaining power.
 -    **Rule #2:** Implement ideals (only when it doesn't violate Rule #1).
+Natural selection removes leaders who ignore Rule #1.
+
 
 **3. Result: Black Box + Leader's Survival = Exploited People.**
 Leaders need your resources (votes, taxes, labor, support, money) to stay in power. Their strategy changes depending on what you can see:
