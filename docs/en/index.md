@@ -15,10 +15,10 @@ Because the world has become so complex that leaders can hide the truth. They ar
 
 ### **THE PROBLEM**
 
-**1. Context: Division of Labor turned the world into Black Boxes.**
+**1. Division of Labor turned the world into Black Boxes.**
 The modern world is built on the Division of Labor. It made society efficient, but it fragmented reality. Today, systems are so complex that no single person—and certainly no busy citizen—sees how the whole machine works. We are left with Black Boxes: we see the inputs and outputs, but the mechanism that connects them is invisible.
 
-**2. Incentive: Leaders are optimized for survival, not yours.**
+**2. Leaders' priority is survival first, ideals second.**
 **Securing power is the prerequisite to implementing ideals.** Before a leader can fix anything, they must first cement their position. 
 
 *   **Rule #1:** Securing and maintaining power.
@@ -26,7 +26,7 @@ The modern world is built on the Division of Labor. It made society efficient, b
 Natural selection removes leaders who ignore Rule #1.
 
 
-**3. Result: Black Box + Leader's Survival = Exploited People.**
+**3. Result: Black Box + Leader's Survival = Reduced Share for People.**
 Leaders need your resources (votes, taxes, labor, support, money) to stay in power. Their strategy changes depending on what you can see:
 
 *   **When the mechanism is CLEAR:**
@@ -51,4 +51,4 @@ We cannot hope for leaders with infinite capacity and **self-sacrificing morals*
 *   **You** get a clear view of what leaders are doing and where to give feedback.
 
 We change the rules of survival. When the mechanism is visible, satisfying you becomes the prerequisite for maintaining power.
-**We end the exploitation of you.**
+**We bring your share back.**
