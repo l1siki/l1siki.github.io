@@ -15,8 +15,8 @@ The modern world is built on the Division of Labor. It made society efficient, b
 **2. Incentive: Leaders are optimized for survival, not yours.**
 **Securing power is the prerequisite to implementing ideals.** Before a leader can fix anything, they must first cement their position. **Natural selection prefers** those who prioritize survival over ideals.
 
--   **Rule #1:** Securing and maintaining power.
--   **Rule #2:** Implement ideals (only when it doesn't violate Rule #1).
+-    **Rule #1:** Securing and maintaining power.
+-    **Rule #2:** Implement ideals (only when it doesn't violate Rule #1).
 
 **3. Result: Black Box + Leader's Survival = Exploited People.**
 Leaders need your resources (votes, taxes, labor, support, money) to stay in power. Their strategy changes depending on what you can see:
