@@ -5,41 +5,42 @@ hide:
 ---
 
 **Job:** System Reverse Engineer
-**Project:** Glass Box
+**Project:** Glass Box (id: projGlassBox)
 
-### **THE PROBLEM**
+### **THE PROBLEM（課題）**
 
-**1. Context: Division of Labor turned the world into Black Boxes.**
-The modern world is built on the Division of Labor. It made society efficient, but it fragmented reality. Today, systems are so complex that no single person—and certainly no busy citizen—sees how the whole machine works. We are left with Black Boxes: we see the inputs and outputs, but the mechanism that connects them is invisible.
+**1. 背景：分業が世界をブラックボックス化した。**
+現代社会は「分業」の上に成り立っている。それは社会を効率化したが、現実を断片化させた。今日のシステムはあまりに複雑で、単独の個人――ましてや多忙な市民――が、その巨大な機械の全容を把握することなど不可能だ。我々に残されたのは「ブラックボックス」である。入力と出力は見えても、それらをつなぐメカニズムは見えない。
 
-**2. Incentive: Leaders are optimized for survival, not yours.**
-**Securing power is the prerequisite to implementing ideals.** Before a leader can fix anything, they must first cement their position. **Natural selection prefers** those who prioritize survival over ideals.
-*   **Rule #1:** Securing and maintaining power.
-*   **Rule #2:** Implement ideals (only when it doesn't violate Rule #1).
+**2. 力学：リーダーは「あなた」ではなく「自らの生存」に最適化される。**
+**権力の確保こそが、理想を実行するための大前提である。** 何かを修正する前に、リーダーはまず自らの地位を盤石にしなければならない。**自然淘汰は、理想よりも生存を優先する者を選ぶ。**
 
-**3. Result: Black Box + Leader's Survival = Exploited People.**
-Leaders need your resources (votes, taxes, labor, support, money) to stay in power. Their strategy changes depending on what you can see:
+*   **ルール #1：** 権力の獲得と維持。
+*   **ルール #2：** 理想の実行（ルール1を犯さない場合に限る）。
 
-*   **When the mechanism is CLEAR:**
-    Leaders must distribute value back to **you**. To secure your support, they are forced to satisfy **you**.
+**3. 帰結：ブラックボックス ＋ リーダーの生存 ＝ 人々の搾取**
+リーダーが権力を維持するためには、あなたのリソース（票、税、労働、支持、金）が必要だ。彼らの戦略は、「あなたに何が見えているか」によって変化する。
 
-*   **When the mechanism is HIDDEN:**
-    Leaders reduce the distribution to **you**. Because you cannot check what you cannot see, satisfying you becomes a **wasted investment**.
+*   **メカニズムが「明瞭」な場合：**
+    リーダーは価値を**あなた**に還元せざるを得ない。支持を確保するため、**あなた**を満足させる必要に迫られるからだ。
 
-Instead, leaders divert resources to the factors that increase their odds of survival. **The Black Box enables this exploitation.**
+*   **メカニズムが「隠蔽」されている場合：**
+    リーダーは**あなた**への還元を減らす。見えないものは検証できないため、あなたを満足させることは**無駄な投資**となるからだ。
 
-Often, the exploitation isn't even intentional. A leader understands the Black Box of survival—how to secure support and resources. But to make the right call for you, they must evaluate hundreds of other Black Boxes (economics, technology, history). This is an overwhelmingly difficult task. **They exploit you not from evil intent, but because they simply can't understand the hundreds of Black Boxes required to serve you.**
+その代わり、リーダーは生存確率を高める要素へとリソースを流用する。**ブラックボックスが、この搾取を可能にするのだ。**
+
+多くの場合、この搾取に悪意すらない。リーダーは「生存のブラックボックス」（支持とリソースの確保法）は理解している。だが、あなたのために正しい判断を下すには、他にも数百のブラックボックス（経済、技術、歴史）を評価せねばならない。これは圧倒的に困難なタスクだ。**彼らがあなたを搾取するのは悪意からではない。単に、あなたに奉仕するために必要な数百ものブラックボックスを理解できないだけなのだ。**
 
 ---
 
-### **THE SOLUTION**
+### **THE SOLUTION（解決策）**
 
-**We reverse engineer the Black Box.**
-We cannot hope for leaders with infinite capacity and **self-sacrificing morals**. But we can solve these impossibilities with a single structural fix: **Dismantle the Complexity.** We trace the incentives, map the resource flows, and **visualize the causal chains.**
+**我々は、ブラックボックスをリバースエンジニアリングする。**
+無限の能力や**自己犠牲的な道徳心**を持つリーダーなど期待できない。だが、たった一つの構造的な修正で、この不可能性を解決できる。すなわち**「複雑性の解体」**だ。インセンティブを追跡し、リソースの流れを地図化し、**因果の連鎖を可視化する。**
 
-**We turn the Black Box into a Glass Box.**
-*   **Leaders** get a clear view of the mechanism to improve your life.
-*   **You** get a clear view of what leaders are doing and where to give feedback.
+**我々は、ブラックボックスを「グラスボックス（透明な箱）」に変える。**
+*   **リーダー**は、あなたの生活を向上させるためのメカニズムを鮮明に把握する。
+*   **あなた**は、リーダーの行動と、どこにフィードバックすべきかを鮮明に把握する。
 
-We change the rules of survival. When the mechanism is visible, satisfying you becomes the prerequisite for maintaining power.
-**We end the exploitation of you.**
+我々は生存のルールを変える。メカニズムが可視化されれば、あなたを満足させることが権力維持の前提条件となる。
+**我々は、あなたに対する搾取を終わらせる。**
