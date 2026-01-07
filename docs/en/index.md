@@ -4,8 +4,14 @@ hide:
   - toc
 ---
 
-**Job:** System Reverse Engineer
-**Project:** Glass Box
+# Why are you getting less?
+
+Because the world has become so complex that leaders can hide the truth. They are using your ignorance to steal your share.
+
+## Project: Glass Box
+
+**role:** System Reverse Engineer
+**id:** projGlassBox
 
 ### **THE PROBLEM**
 
