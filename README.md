@@ -1,9 +1,3 @@
----
-hide:
-  - navigation
-  - toc
----
-
 **Job:** System Reverse Engineer
 **Project:** Glass Box
 
