@@ -6,7 +6,7 @@ hide:
 
 # Why are you getting less?
 
-Because the world has become so complex that leaders can hide the truth. They are using your ignorance to reduce your share.
+Because the world has become so complex that leaders can hide the truth. They are reducing your share while you're confused.
 
 ## Project: Glass Box
 
