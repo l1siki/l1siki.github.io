@@ -9,7 +9,7 @@ def on_config(config):
         
         # Construct the correct GitHub Pages URL
         # Format: https://owner.github.io/repo/
-        new_url = f"https://{owner}.github.io/{repo}/"
+        new_url = f"https://{owner}.github.io/"
         
         # Overwrite the site_url in the config
         config["site_url"] = new_url
