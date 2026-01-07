@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-# **Why are you getting less?**
+## **Why are you getting less?**
 
 Because the world has become so complex that leaders can hide the truth. They are reducing your share while you're confused.
 
@@ -21,8 +21,8 @@ The modern world is built on the Division of Labor. It made society efficient, b
 **2. Incentive: Leaders are optimized for survival, not yours.**
 **Securing power is the prerequisite to implementing ideals.** Before a leader can fix anything, they must first cement their position. 
 
--    **Rule #1:** Securing and maintaining power.
--    **Rule #2:** Implement ideals (only when it doesn't violate Rule #1).
+*   **Rule #1:** Securing and maintaining power.
+*   **Rule #2:** Implement ideals (only if they don't break Rule #1).
 Natural selection removes leaders who ignore Rule #1.
 
 
