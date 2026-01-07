@@ -4,11 +4,11 @@ hide:
   - toc
 ---
 
-# Why are you getting less?
+# **Why are you getting less?**
 
 Because the world has become so complex that leaders can hide the truth. They are reducing your share while you're confused.
 
-## Project: Glass Box
+## **Project: Glass Box**
 
 **role:** System Reverse Engineer
 **id:** projGlassBox
